@@ -76,6 +76,10 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
     color: 'var(--text-h)',
     margin: '0',
     lineHeight: '1.3',
+    display: '-webkit-box',
+    WebkitLineClamp: 2,
+    WebkitBoxOrient: 'vertical',
+    overflow: 'hidden',
   };
 
   const ratingContainerStyle: React.CSSProperties = {
@@ -91,6 +95,10 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
     color: 'var(--text)',
     lineHeight: '1.4',
     margin: '4px 0',
+    display: '-webkit-box',
+    WebkitLineClamp: 3,
+    WebkitBoxOrient: 'vertical',
+    overflow: 'hidden',
   };
 
   const priceContainerStyle: React.CSSProperties = {

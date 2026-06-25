@@ -13,7 +13,7 @@ export const MOCK_PRODUCTS: IProductBrief[] = [
   },
   {
     id: '1-02',
-    title: 'Samsung Galaxy S24 Ultra',
+    title: 'Samsung Galaxy S24 Ultra 5G Enterprise Edition Titanium Gray with Special Advanced AI Features and Extended Warranty',
     price: 46000,
     imageUrl: 'https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=600&auto=format&fit=crop&q=80',
     rating: 4.8,
@@ -33,7 +33,7 @@ export const MOCK_PRODUCTS: IProductBrief[] = [
     title: 'Xiaomi 14 Ultra',
     price: 42000,
     imageUrl: 'https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600&auto=format&fit=crop&q=80',
-    description: 'Суперфлагман з унікальною оптикою від легендарного бренду Leica, великим сенсором та надшвидкою зарядкою 90 Вт.'
+    description: 'Суперфлагман з унікальною оптикою від легендарного бренду Leica, великим сенсором та надшвидкою зарядкою 90 Вт. Також він оснащений неймовірним WQHD+ екраном з частотою оновлення 120 Гц, інноваційними функціями штучного інтелекту для обробки зображень та надзвичайно міцним склом Xiaomi Shield Glass.'
   },
   {
     id: '1-05',
